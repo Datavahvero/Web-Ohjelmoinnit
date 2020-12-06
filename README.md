@@ -1,2 +1,2 @@
 # Web-Ohjelmoinnit
-JavaScript, HTML ja PHP
+JavaScript ja HTML
